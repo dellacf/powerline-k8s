@@ -28,9 +28,9 @@ class KubernetesSegment(Segment):
 
 		segments = []
 
+		divider = 'kubernetes:divider:alert' if alert else 'kubernetes:divider'
 		if self.show_cluster:
 			color = 'kubernetes_cluster:alert' if alert else 'kubernetes_cluster'
-			divider = 'kubernetes:divider:alert' if alert else 'kubernetes:divider'
 
 			if self.show_kube_logo:
 				context = _KUBERNETES + context

@@ -71,5 +71,5 @@ Licensed under the [MIT License](LICENSE).
 
 ## Authors
 
-Rewritten by [dellacf](https://github.com/dellacf/). Created by [so0k](https://github.com/so0k/). Code contributions by [bokysan](https://github.com/bokysan)
+Created by [so0k](https://github.com/so0k/). Code contributions by [bokysan](https://github.com/bokysan). Rewritten by [dellacf](https://github.com/dellacf/).
 
